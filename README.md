@@ -46,8 +46,7 @@ Interactive Excel MIS dashboard for analyzing employee performance, working hour
 
 - ## 🖼️ Dashboard Preview
 
-![MIS Report Dashboard]([dashboard-preview.png](https://github.com/Sunakshi-code/Excel-Projects/blob/main/MIS%20Report%20Dashboard.png
-))
+![MIS Report Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/MIS%20Report%20Dashboard.png)
 
 ## 📁 Project File
 
