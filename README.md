@@ -76,8 +76,7 @@ Interactive Excel dashboard for analyzing emergency room performance, patient vo
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/Hospital%20Dashboard%20Final%20.jpg
-)
+![Hospital Emergency Room Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
 
 ## 📁 Project File
 
