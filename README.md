@@ -44,6 +44,14 @@ Interactive Excel MIS dashboard for analyzing employee performance, working hour
 - Data Analysis
 - Interactive Dashboard
 
+- ## 🖼️ Dashboard Preview
+
+![MIS Report Dashboard](dashboard-preview.png)
+
+## 📁 Project File
+
+[Download Excel Dashboard](./Excel%20MIS%20Report%20Dashboard%20Project.xlsm)
+
 
 ### 2. 🏥 Hospital Emergency Room Dashboard
 
@@ -64,6 +72,14 @@ Interactive Excel dashboard for analyzing emergency room performance, patient vo
 - Data Visualization
 - Trend Analysis
 - Interactive Dashboard
+
+## 🖼️ Dashboard Preview
+
+![Hospital Emergency Room Dashboard](dashboard-preview.png)
+
+## 📁 Project File
+
+[Download Excel Dashboard](./Excel%20MIS%20Report%20Dashboard%20Project.xlsm)
 
 
 ## 🚀 More Projects Coming Soon
