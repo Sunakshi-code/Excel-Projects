@@ -1,8 +1,8 @@
-## 📌 Project Overview
+ 📌 Project Overview
 
 An interactive Excel MIS dashboard designed to analyze employee performance, working hours, efficiency, break time, and customer interaction metrics.
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Analyze employee performance
 - Monitor working hours and efficiency
@@ -10,7 +10,7 @@ An interactive Excel MIS dashboard designed to analyze employee performance, wor
 - Analyze break patterns
 - Present key performance indicators through an interactive dashboard
 
-## 📊 Key KPIs
+📊 Key KPIs
 
 - Working Hours
 - Efficiency
@@ -19,7 +19,7 @@ An interactive Excel MIS dashboard designed to analyze employee performance, wor
 - Break Time
 - Overall Performance
 
-## 🛠️ Tools & Skills
+🛠️ Tools & Skills
 
 - Microsoft Excel
 - Pivot Tables
@@ -28,3 +28,11 @@ An interactive Excel MIS dashboard designed to analyze employee performance, wor
 - KPI Reporting
 - Data Analysis
 - Dashboard Development
+
+🖼️ Dashboard Preview
+
+![MIS Report Dashboard](dashboard-preview.png)
+
+ 📁 Project File
+
+[Download Excel Dashboard](./Excel%20MIS%20Report%20Dashboard%20Project.xlsm)
