@@ -46,11 +46,13 @@ Interactive Excel MIS dashboard for analyzing employee performance, working hour
 
 - ## 🖼️ Dashboard Preview
 
-![MIS Report Dashboard](dashboard-preview.png)
+![MIS Report Dashboard]([dashboard-preview.png](https://github.com/Sunakshi-code/Excel-Projects/blob/main/MIS%20Report%20Dashboard.png
+))
 
 ## 📁 Project File
 
-[Download Excel Dashboard](./Excel%20MIS%20Report%20Dashboard%20Project.xlsm)
+[Download Excel Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/Excel%20MIS%20Report%20Dashboard%20Project.xlsm
+)
 
 
 ### 2. 🏥 Hospital Emergency Room Dashboard
@@ -75,11 +77,12 @@ Interactive Excel dashboard for analyzing emergency room performance, patient vo
 
 ## 🖼️ Dashboard Preview
 
-![Hospital Emergency Room Dashboard](dashboard-preview.png)
+![Hospital Emergency Room Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/Hospital%20Dashboard%20Final%20.jpg
+)
 
 ## 📁 Project File
 
-[Download Excel Dashboard](./Excel%20MIS%20Report%20Dashboard%20Project.xlsm)
+[Download Excel Dashboard](https://github.com/Sunakshi-code/Excel-Projects/blob/main/Hospital%20Emergency%20Room%20Dashboard.xlsx)
 
 
 ## 🚀 More Projects Coming Soon
